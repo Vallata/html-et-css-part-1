@@ -1,8 +1,8 @@
 # Jour 1 - HTML & CSS - Partie 1
 
-## Le lien vers le <a href="https://annecemech.github.io/html-css-part-1/" target="_blanck">site à reproduire</a>
+# Le lien vers le <a href="https://annecemech.github.io/html-css-part-1/" target="_blanck">site à reproduire</a>
 
-## Lien vers le <a href="https://www.canva.com/design/DAG9iguTY3k/76PnxPTaV4FpqswH-wGvIg/view?utm_content=DAG9iguTY3k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcc411fa2f6" target="_blanck">cours</a>
+# Lien vers le <a href="https://www.canva.com/design/DAG9iguTY3k/76PnxPTaV4FpqswH-wGvIg/view?utm_content=DAG9iguTY3k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcc411fa2f6" target="_blanck">cours</a>
 
 ## Les outils
 
