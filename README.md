@@ -2,11 +2,7 @@
 
 ## Le lien vers le <a href="https://annecemech.github.io/html-css-part-1/" target="_blanck">site à reproduire</a>
 
-## Les autres liens utiles
-
-Les diapositives du 1er cours sont disponibles à l'adresse suivante :
-<a href="https://www.canva.com/design/DAG9iguTY3k/76PnxPTaV4FpqswH-wGvIg/view?utm_content=DAG9iguTY3k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcc411fa2f6" target="_blanck">
-Cours 1</a>
+## Lien vers le <a href="https://www.canva.com/design/DAG9iguTY3k/76PnxPTaV4FpqswH-wGvIg/view?utm_content=DAG9iguTY3k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcc411fa2f6" target="_blanck">cours</a>
 
 ## Les outils
 
