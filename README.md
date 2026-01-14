@@ -1,6 +1,6 @@
 # Jour 1 - HTML & CSS - Partie 1
 
-## Le lien vers la <a href="https://annecemech.github.io/html-css-part-1/" target="_blanck">démo</a>
+## Le lien vers le <a href="https://annecemech.github.io/html-css-part-1/" target="_blanck">site à reproduire</a>
 
 ## Les autres liens utiles
 
