@@ -479,3 +479,6 @@ Remarque : Il est possible de changer la taille de la vidéo grâce aux attribut
 <kbd>
   <img src="readme-images/css-screenshot.png" alt="css-screenshot">
 </kbd>
+
+## Lien vers Cours du Jour 1 - Partie 2 <a href="https://github.com/vallata/html-et-css-part-2" target="_blanck">ici</a>
+
