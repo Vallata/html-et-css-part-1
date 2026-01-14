@@ -1,12 +1,12 @@
 # Jour 1 - HTML & CSS - Partie 1
 
-### Lien vers le <a href="https://www.canva.com/design/DAG9iguTY3k/76PnxPTaV4FpqswH-wGvIg/view?utm_content=DAG9iguTY3k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcc411fa2f6" target="_blanck">cours</a>
+## Lien vers le <a href="https://www.canva.com/design/DAG9iguTY3k/76PnxPTaV4FpqswH-wGvIg/view?utm_content=DAG9iguTY3k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcc411fa2f6" target="_blanck">cours</a>
 
-### Les outils
+## Les outils
 
 <img src="readme-images/tools-logos.png" alt="tools">
 
-### Chrome
+## Chrome
 
 <img src="readme-images/chrome-logo.png" alt="chrome-logo" width="100px">
 Chrome est un navigateur. C'est un logiciel qui permet de visualiser une page web.
@@ -21,7 +21,7 @@ Chaque logiciel attend un certain type de fichier avec une extension bien partic
   <img src="readme-images/extensions.png" alt="extensions">
 </kbd>
 
-### Sublime Text
+## Sublime Text
 
 <img src="readme-images/st-logo.png" alt="st-logo" width="100px">
 Sublime Text est un éditeur de text qui permet d'écrire des fichiers textes et de les sauvegarder au format choisi. Dans notre cas nous l'utiliserons pour écrire les fichiers "index.html" et "style.css".
@@ -29,7 +29,7 @@ Sublime Text est un éditeur de text qui permet d'écrire des fichiers textes et
 C'est le seul logiciel qu'il est nécessaire d'installer pour suivre ce cours. Voici le lien :
 <a href="https://www.sublimetext.com/3" target="_blanck">Télécharger Sublime Text</a>
 
-### GitHub
+## GitHub
 
 <img src="readme-images/github-logo.png" alt="github-logo" width="100px">
 GitHub est une plateforme web qui permet stocker et de partager son travail en ligne et héberger des sites statiques. Dans ce cours nous utiliserons cette plateforme à la fois pour partager les supports de cours et héberger le site web que nous allos produire. Pour pouvoir suivre ce cours il est donc nécessaire de se créer un compte. Voici le lien :
