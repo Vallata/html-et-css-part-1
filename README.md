@@ -5,7 +5,7 @@
 ## Les autres liens utiles
 
 Les diapositives du 1er cours sont disponibles à l'adresse suivante :
-<a href="https://docs.google.com/presentation/d/e/2PACX-1vS8hxL-8XySCIGKGnqwe2PSby6in_BGWfeDy5O-UahiQ1P_Csd4UmspQFdWydiFk6kU4ioJLxd_9S3a/pub?start=false&loop=false&delayms=3000" target="_blanck">
+<a href="https://github.com/Vallata/html-et-css-part-1/blob/main/P1%20-%20Cours%20De%CC%81veloppement%20front%20end%20-%202026%20-%20HTMLCSS%20Part%201.pptx.pdf" target="_blanck">
 Cours 1</a>
 
 ## Les outils
