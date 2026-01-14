@@ -480,7 +480,7 @@ Remarque : Il est possible de changer la taille de la vidéo grâce aux attribut
 
 ## ➡️ Lien vers la suite du cours <a href="https://github.com/vallata/html-et-css-part-2" target="_blanck">ici</a>
 
--- Accès rapide et plan -- 
+-- Accès rapide et plan -- </br>
 <a href="https://github.com/vallata/html-et-css-part-1" target="_blanck">Cours 1 - Les bases</a></br>
 <a href="https://github.com/vallata/html-et-css-part-2" target="_blanck">Cours 2 - Div, Class et ID</a></br>
 <a href="https://github.com/vallata/html-et-css-part-3" target="_blanck">Cours 3 - FlexBox, Components</a></br>
